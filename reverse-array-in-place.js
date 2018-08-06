@@ -1,3 +1,4 @@
+
 const reverse = (array) => {
 
   length = array.length;
@@ -13,5 +14,7 @@ const reverse = (array) => {
   return array;
 
 }
+
+export default reverse;
 
 reverse([0, 1, 2, 3, 4]);
