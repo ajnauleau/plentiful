@@ -35,13 +35,14 @@ for more information.
 
 ## Features
 
-  * Robust routing
+  * List of most to all algorithms
+  * Everything implemented in Javascript
   * Focus on high performance
-  * Super-high test coverage
-  * HTTP helpers (redirection, caching, etc)
-  * View system supporting 14+ template engines
-  * Content negotiation
-  * Executable for generating applications quickly
+  * //add info
+  * //add info
+  * //add info
+  * //add info
+  * //add info
 
 ## Docs & Community
 
@@ -101,7 +102,7 @@ $ npm test
 
 ## People
 
-The author of PLentiful is [Antoine Nauleau](https://github.com/ajnauleau)
+The author of Plentiful is [Antoine Nauleau](https://github.com/ajnauleau)
 
 The current lead maintainer is [Antoine Nauleau](https://github.com/ajnauleau)
 
