@@ -1,4 +1,4 @@
-[![Plentiful Logo]()](https://s3.amazonaws.com/plentiful/plentiful-thick-moved%405x.png)
+[![Plentiful Logo](https://s3.amazonaws.com/plentiful/plentiful-thick-moved%405x.png)](http://plentiful.nauleau.io/)
 
   A bountyful amount of algorithms ripe for the picking, choose your poison. runs with [node](http://nodejs.org).
 
