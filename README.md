@@ -46,7 +46,7 @@ for more information.
 
 ## Docs & Community
 
-  * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
+  * [Website and Documentation](http://plentiful.nauleau.io) - [[website repo](https://github.com/ajnauleau/plentiful/plentiful.nauleau.io)]
   * [#plentiful](https://webchat.freenode.net/?channels=plentiful) on freenode IRC
   * Visit the [Wiki](https://github.com/ajnauleau/plentiful/wiki)
   * [Slack](https://project-plentiful.slack.com) for discussion
