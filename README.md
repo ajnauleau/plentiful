@@ -1,18 +1,18 @@
 [![Plentiful Logo](https://s3.amazonaws.com/plentiful/plentiful-thick-moved%405x.png)](http://plentiful.nauleau.io/)
 
-  A bountyful amount of algorithms ripe for the picking, choose your poison. runs with [node](http://nodejs.org).
+A bountyful amount of algorithms ripe for the picking, choose your poison. runs with [node](http://nodejs.org).
 
-  [![NPM Version][npm-image]][npm-url]
-  [![NPM Downloads][downloads-image]][downloads-url]
-  [![Linux Build][travis-image]][travis-url]
-  [![Test Coverage][circleci-image]][circleci-url]
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![Linux Build][travis-image]][travis-url]
+[![Test Coverage][circleci-image]][circleci-url]
 
 ```js
 import Plentiful from 'plentiful';
 
 Plentiful.sorts.timSort();
 
-Plentiful()
+Plentiful();
 ```
 
 ## Installation
@@ -35,51 +35,51 @@ for more information.
 
 ## Features
 
-  * List of most to all algorithms
-  * Everything implemented in Javascript
-  * Focus on high performance
-  * //add info
-  * //add info
-  * //add info
-  * //add info
-  * //add info
+-   List of most to all algorithms
+-   Everything implemented in Javascript
+-   Focus on high performance
+-   //add info
+-   //add info
+-   //add info
+-   //add info
+-   //add info
 
 ## Docs & Community
 
-  * [Website and Documentation](http://plentiful.nauleau.io) - [[website repo](https://github.com/ajnauleau/plentiful/plentiful.nauleau.io)]
-  * [#plentiful](https://webchat.freenode.net/?channels=plentiful) on freenode IRC
-  * Visit the [Wiki](https://github.com/ajnauleau/plentiful/wiki)
-  * [Slack](https://project-plentiful.slack.com) for discussion
+-   [Website and Documentation](http://plentiful.nauleau.io) - [[website repo](https://github.com/ajnauleau/plentiful/plentiful.nauleau.io)]
+-   [#plentiful](https://webchat.freenode.net/?channels=plentiful) on freenode IRC
+-   Visit the [Wiki](https://github.com/ajnauleau/plentiful/wiki)
+-   [Slack](https://project-plentiful.slack.com) for discussion
 
 ### Security Issues
 
-If you discover a security vulnerability in Express, please see [Security Policies and Procedures](Security.md).
+If you discover a security vulnerability in Plentiful, please see [Security Policies and Procedures](Security.md).
 
 ## Quick Start
 
-  The quickest way to get started with Plentiful is to install globally and then use the implementType [`implementType`](https://github.com/ajnauleau/plentiful/implements/implementType) which will apply the best algorithm for the given task:
+The quickest way to get started with Plentiful is to install globally and then use the implementType [`implementType`](https://github.com/ajnauleau/plentiful/implements/implementType) which will apply the best algorithm for the given task:
 
-  Install the Plentiful repo:
+Install the Plentiful repo:
 
 ```bash
 $ npm install -g plentiful
 ```
 
-  Call any algorithm you can think of:
+Call any algorithm you can think of:
 
 ```bash
 $ plentiful timsort
 ```
 
-  Utilize implementType on any data set and find the bext algorithm to use:
+Utilize implementType on any data set and find the best algorithm to use:
 
 ```bash
-$ plentiful implementType
+$ plentiful implementType $data
 $ timsort(data)? [Y/n]
 $ ...
 ```
 
-  Install dependencies:
+Install dependencies:
 
 ```bash
 $ npm install
@@ -87,10 +87,9 @@ $ npm install
 
 ## Philosophy
 
-  Just find the right algorithm and have fun, don't waste your time porting to a C++ library when you can call anything with Plentiful!
+Just find the right algorithm and have fun, don't waste your time porting to a C++ library when you can call any common and popular algorithm with Plentiful!
 
-```
-
+````
 ## Tests
 
   To run the test suite, first install the dependencies, then run `npm test`:
@@ -98,7 +97,7 @@ $ npm install
 ```bash
 $ npm install
 $ npm test
-```
+````
 
 ## People
 
@@ -110,4 +109,10 @@ The current lead maintainer is [Antoine Nauleau](https://github.com/ajnauleau)
 
 ## License
 
-  [MIT](LICENSE)
+[MIT](LICENSE)
+
+TODOs
+
+-   Feature Description
+-   Example => Porting a new algorithm to javascript source Array.prototype.sort = Plentiful.sort.sorted().
+-   Drop bash example, implement javascripts
