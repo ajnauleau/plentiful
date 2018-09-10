@@ -45,6 +45,7 @@
     },
     "homepage": "https://github.com/ajnauleau/plentiful#readme",
     "dependencies": {
-        "babel": "^6.23.0"
+        "babel": "^6.23.0",
+        "jekyll": "^3.0.0-beta1"
     }
 }
