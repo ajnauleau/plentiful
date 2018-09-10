@@ -22,4 +22,5 @@ const binarySearch = (array, num, start, end) => {
   }
 };
 
-console.log(binarySearch([1, 3, 7, 5, 6, 9, 1, 3, 4], 1, 8, 9));
+export default binarySearch;
+//console.log(binarySearch([1, 3, 7, 5, 6, 9, 1, 3, 4], 1, 8, 9));
