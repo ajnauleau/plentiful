@@ -1,50 +1,50 @@
 {
-    "name": "plentiful",
-    "version": "0.0.1",
-    "description": "A bountyful amount of algorithms to pick from, choose your poison.",
-    "main": "main.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ajnauleau/plentiful.git"
-    },
-    "keywords": [
-        "algorithms",
-        "computer",
-        "science",
-        "sort",
-        "tim",
-        "binary",
-        "merge",
-        "quick",
-        "bubble",
-        "ciphers",
-        "blowfish",
-        "twofish",
-        "threefish",
-        "helix",
-        "phelix",
-        "solitaire",
-        "skein",
-        "hash",
-        "table",
-        "tree",
-        "tables",
-        "trees",
-        "chains",
-        "lists",
-        "data",
-        "types"
-    ],
-    "author": "Antoine Nauleau <antoine@nauleau.io> (http://plentiful.nauleau.io)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/ajnauleau/plentiful/issues"
-    },
-    "homepage": "https://github.com/ajnauleau/plentiful#readme",
-    "dependencies": {
-        "babel": "^6.23.0"
-    }
+  "name": "plentiful",
+  "version": "0.0.1",
+  "description": "A bountyful amount of algorithms to pick from, choose your poison.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnauleau/plentiful.git"
+  },
+  "keywords": [
+    "algorithms",
+    "computer",
+    "science",
+    "sort",
+    "tim",
+    "binary",
+    "merge",
+    "quick",
+    "bubble",
+    "ciphers",
+    "blowfish",
+    "twofish",
+    "threefish",
+    "helix",
+    "phelix",
+    "solitaire",
+    "skein",
+    "hash",
+    "table",
+    "tree",
+    "tables",
+    "trees",
+    "chains",
+    "lists",
+    "data",
+    "types"
+  ],
+  "author": "Antoine Nauleau <antoine@nauleau.io> (http://plentiful.nauleau.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajnauleau/plentiful/issues"
+  },
+  "homepage": "https://github.com/ajnauleau/plentiful#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }

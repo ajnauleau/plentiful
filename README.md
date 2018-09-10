@@ -8,16 +8,22 @@ A bountyful amount of algorithms ripe for the picking, choose your poison. runs 
 [![Test Coverage][circleci-image]][circleci-url]
 
 ```js
-import Plentiful from 'plentiful';
+import Plentiful from "plentiful";
 
 Plentiful.sorts.timSort();
 
 Plentiful();
 ```
 
+This repository is a collection of many if not all common and popular algorithms implemented and rewritten in JavaScript. The list in constantly expanding-- feel free to contribute!
+
+An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules and steps that precisely define a set or sequence of operations.
+
+Each algorithm has its own separate README containing relevant information and explanations and links for further reading.
+
 ## Installation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
+This is a [Node.js](https://nodejs.org/en/) package available through the
 [npm registry](https://www.npmjs.com/).
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
@@ -35,21 +41,21 @@ for more information.
 
 ## Features
 
--   List of most to all algorithms
--   Everything implemented in Javascript
--   Focus on high performance
--   //add info
--   //add info
--   //add info
--   //add info
--   //add info
+- List of most to all algorithms
+- Everything implemented in Javascript
+- Focus on high performance
+- //add info
+- //add info
+- //add info
+- //add info
+- //add info
 
 ## Docs & Community
 
--   [Website and Documentation](http://plentiful.nauleau.io) - [[website repo](https://github.com/ajnauleau/plentiful/plentiful.nauleau.io)]
--   [#plentiful](https://webchat.freenode.net/?channels=plentiful) on freenode IRC
--   Visit the [Wiki](https://github.com/ajnauleau/plentiful/wiki)
--   [Slack](https://project-plentiful.slack.com) for discussion
+- [Website and Documentation](http://plentiful.nauleau.io) - [[website repo](https://github.com/ajnauleau/plentiful/plentiful.nauleau.io)]
+- [#plentiful](https://webchat.freenode.net/?channels=plentiful) on freenode IRC
+- Visit the [Wiki](https://github.com/ajnauleau/plentiful/wiki)
+- [Slack](https://project-plentiful.slack.com) for discussion
 
 ### Security Issues
 
@@ -89,15 +95,14 @@ $ npm install
 
 Just find the right algorithm and have fun, don't waste your time porting to a C++ library when you can call any common and popular algorithm with Plentiful!
 
-````
 ## Tests
 
-  To run the test suite, first install the dependencies, then run `npm test`:
+To run the test suite, first install the dependencies, then run `npm test`:
 
 ```bash
 $ npm install
 $ npm test
-````
+```
 
 ## People
 
@@ -113,6 +118,6 @@ The current lead maintainer is [Antoine Nauleau](https://github.com/ajnauleau)
 
 TODOs
 
--   Feature Description
--   Example => Porting a new algorithm to javascript source Array.prototype.sort = Plentiful.sort.sorted().
--   Drop bash example, implement javascripts
+- Feature Description
+- Example => Porting a new algorithm to javascript source Array.prototype.sort = Plentiful.sort.sorted().
+- Drop bash example, implement javascripts
