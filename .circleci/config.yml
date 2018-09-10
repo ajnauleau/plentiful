@@ -22,7 +22,7 @@ jobs:
 
       - run:
           name: update-npm
-          command: 'sudo npm install -g npm@latest'
+          command: 'sudo npm install -g npm@^7.1.0' #@latest
 
       # Download and cache dependencies
       - restore_cache: # special step to restore the dependency cache
