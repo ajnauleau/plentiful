@@ -3,8 +3,8 @@
 A bountyful amount of algorithms ripe for the picking, choose your poison. runs with [node](http://nodejs.org).
 
 [![npm version](https://badge.fury.io/js/plentiful.svg)](https://badge.fury.io/js/plentiful)
-[![NPM Downloads][https://img.shields.io/badge/downloads-live-brightgreen.svg]](https://www.npmjs.com/package/plentiful)
-[![Test Coverage][circleci-image]][circleci-url]
+[![npm downloads][https://img.shields.io/badge/downloads-live-brightgreen.svg]](https://www.npmjs.com/package/plentiful)
+[![test coverage][circleci-image]][circleci-url]
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ajnauleau/plentiful/issues)
 
 ```js
