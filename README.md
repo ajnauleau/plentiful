@@ -120,4 +120,4 @@ TODOs
 
 - Feature Description
 - Example => Porting a new algorithm to javascript source Array.prototype.sort = Plentiful.sort.sorted().
-- Drop bash example, implement javascripts
+- Drop bash example, implement Javascript
