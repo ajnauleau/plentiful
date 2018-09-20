@@ -4,7 +4,7 @@ A bountyful amount of algorithms ripe for the picking, choose your poison. runs 
 
 [![npm version](https://badge.fury.io/js/plentiful.svg)](https://badge.fury.io/js/plentiful)
 [![npm downloads](https://img.shields.io/badge/downloads-live-brightgreen.svg)](https://www.npmjs.com/package/plentiful)
-[![test coverage][circleci-image]][circleci-url]
+[![CircleCI](https://circleci.com/gh/ajnauleau/plentiful.svg?style=shield)](https://circleci.com/gh/ajnauleau/plentiful)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ajnauleau/plentiful/issues)
 
 ```js
