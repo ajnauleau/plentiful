@@ -8,7 +8,7 @@ A bountyful amount of algorithms ripe for the picking, choose your poison. runs 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ajnauleau/plentiful/issues)
 
 ```js
-import Plentiful from "plentiful";
+import { Plentiful } from "plentiful";
 
 Plentiful.sorts.timSort();
 
@@ -33,7 +33,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install plentiful
+$ npm install -g plentiful
 ```
 
 Follow [our installing guide](http://plentiful.nauleau.io/docs/install.html)
@@ -44,9 +44,6 @@ for more information.
 - List of most to all algorithms
 - Everything implemented in Javascript
 - Focus on high performance
-- //add info
-- //add info
-- //add info
 - //add info
 - //add info
 
@@ -74,7 +71,7 @@ $ npm install -g plentiful
 Call any algorithm you can think of:
 
 ```bash
-$ plentiful timsort
+$ plentiful timsort arrayToBeSorted
 ```
 
 Utilize implementType on any data set and find the best algorithm to use:
@@ -103,14 +100,6 @@ To run the test suite, first install the dependencies, then run `npm test`:
 $ npm install
 $ npm test
 ```
-
-## People
-
-The author of Plentiful is [Antoine Nauleau](https://github.com/ajnauleau)
-
-The current lead maintainer is [Antoine Nauleau](https://github.com/ajnauleau)
-
-[List of all contributors](https://github.com/ajnauleau/plentiful/contribute/contributors)
 
 ## License
 
