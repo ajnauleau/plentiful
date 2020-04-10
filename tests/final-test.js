@@ -2,7 +2,7 @@ require("true")([
   {
     name: "test 1",
     fn: function() {
-      require("Plentiful");
+      let Plentiful = require("Plentiful");
       const array = [];
       Plentiful.sort.timSort(array);
     }
@@ -10,7 +10,7 @@ require("true")([
   {
     name: "test 2",
     fn: function() {
-      require("Plentiful");
+        let Plentiful = require("Plentiful");
       const array = [];
       Plentiful.sort.mergeSort(array);
     }
