@@ -1,5 +1,6 @@
+
 const binarySearch = (array, num, start, end) => {
-  if (start == end) {
+  if (start === end) {
     if (array[start] > num) {
       return start;
     } else {
@@ -23,4 +24,5 @@ const binarySearch = (array, num, start, end) => {
 };
 
 export default binarySearch;
+
 //console.log(binarySearch([1, 3, 7, 5, 6, 9, 1, 3, 4], 1, 8, 9));

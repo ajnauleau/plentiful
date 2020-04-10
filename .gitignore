@@ -2,6 +2,9 @@
 # Node
 node_modules
 
+# NPM
+npm
+
 # IDEs
 .idea
 

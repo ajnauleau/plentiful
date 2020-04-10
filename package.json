@@ -2,7 +2,7 @@
   "name": "plentiful",
   "version": "0.0.1",
   "description": "A bountyful amount of algorithms to pick from, choose your poison.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified | Run but needs fix\" && exit 0"
   },

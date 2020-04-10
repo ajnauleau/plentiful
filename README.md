@@ -44,8 +44,6 @@ for more information.
 - List of most to all algorithms
 - Everything implemented in Javascript
 - Focus on high performance
-- //add info
-- //add info
 
 ## Docs & Community
 
@@ -60,7 +58,18 @@ If you discover a security vulnerability in Plentiful, please see [Security Poli
 
 ## Quick Start
 
-The quickest way to get started with Plentiful is to install globally and then use the implementType [`implementType`](https://github.com/ajnauleau/plentiful/implements/implementType) which will apply the best algorithm for the given task:
+The quickest way to get started with Plentiful is to install the package to your project and then call and use the algorithm you are looking for your needs:
+
+```js
+import { Plentiful } from "plentiful";
+
+Plentiful.sorts.timSort();
+
+Plentiful();
+```
+
+
+Otherwise, for research or testing purposes you can install Plentiful globally and then use the implementType [`implementType`](https://github.com/ajnauleau/plentiful/implements/implementType) which will apply the best algorithm for the given task:
 
 Install the Plentiful repo:
 
@@ -109,4 +118,3 @@ TODOs
 
 - Feature Description
 - Example => Porting a new algorithm to javascript source Array.prototype.sort = Plentiful.sort.sorted().
-- Drop bash example, implement Javascript
