@@ -21,7 +21,6 @@ Plenfitul.search = {};
 Plentiful.search.binarySearch = require('./search/binary-search');
 
 
-
 // Recursive Algorithms
 
 Plenfitul.recurse = {};
@@ -29,4 +28,11 @@ Plenfitul.recurse = {};
 Plentiful.recurse.recursive = require('./recurse/recursive');
 
 
-export default Plentiful;
+// Modifying Algorithms
+
+Plentiful.modify = {};
+
+Plentiful.modify.reverse = require('./modify/reverse');
+
+
+module.exports = Plentiful;

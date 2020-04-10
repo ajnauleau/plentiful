@@ -15,6 +15,6 @@ const reverse = (array) => {
 
 }
 
-export default reverse;
+module.exports = reverse;
 
 reverse([0, 1, 2, 3, 4]);

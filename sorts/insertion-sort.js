@@ -2,7 +2,7 @@
    if the array size is small or if the size
   of the "run" is small */
 
-import { binarySearch } from '../search/';
+const binarySearch = require('../search/');
 
 const insertionSort = (array) => {
   let length = len(array);
@@ -15,4 +15,4 @@ const insertionSort = (array) => {
   return array
 };
 
-export default insertionSort;
+module.exports = insertionSort;

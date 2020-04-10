@@ -23,6 +23,6 @@ const binarySearch = (array, num, start, end) => {
   }
 };
 
-export default binarySearch;
+module.exports = binarySearch;
 
 //console.log(binarySearch([1, 3, 7, 5, 6, 9, 1, 3, 4], 1, 8, 9));
