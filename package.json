@@ -1,6 +1,6 @@
 {
   "name": "plentiful",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A bountyful amount of algorithms to pick from, choose your poison.",
   "main": "index.js",
   "scripts": {
