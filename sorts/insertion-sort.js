@@ -10,7 +10,7 @@ const insertionSort = (array) => {
     let value = array[i];
     let psitn = binarySearch(array, value, 0, i - 1);
     // Fix array manipulation (port from Python)
-    array = array[:pos] + [value] + array[pos:index] + array[index+1:];
+    //array = array[:pos] + [value] + array[pos:index] + array[index+1:];
   }
   return array
 };
