@@ -2,7 +2,7 @@
    if the array size is small or if the size
   of the "run" is small */
 
-const binarySearch = require('../search/');
+const binarySearch = require('../search/binary-search');
 
 const insertionSort = (array) => {
   let length = len(array);

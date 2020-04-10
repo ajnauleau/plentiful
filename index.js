@@ -32,7 +32,7 @@ Plentiful.recurse.recursive = require('./recurse/recursive');
 
 Plentiful.modify = {};
 
-Plentiful.modify.reverse = require('./modify/reverse');
+Plentiful.modify.reverse = require('./modify/reverse-array-in-place');
 
 
 module.exports = Plentiful;
