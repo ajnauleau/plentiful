@@ -1,4 +1,4 @@
-[![Plentiful Logo](https://ibb.co/H7FyVGQ)](http://plentiful.nauleau.io/)
+[![Plentiful Logo](assets/5x/Asset 8@5x.png)](http://plentiful.nauleau.io/)
 
 A bountyful amount of algorithms ripe for the picking, choose your poison. runs with [node](http://nodejs.org).
 
