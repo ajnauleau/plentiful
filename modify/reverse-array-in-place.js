@@ -17,4 +17,4 @@ const reverse = (array) => {
 
 module.exports = reverse;
 
-reverse([0, 1, 2, 3, 4]);
+console.log(reverse([0, 1, 2, 3, 4]));

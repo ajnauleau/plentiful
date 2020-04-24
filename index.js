@@ -4,6 +4,8 @@ const Plentiful = () => {
     console.log('This is a message letting you know Plentiful has loaded');
 };
 
+module.exports = Plentiful;
+
 
 // Sorting Algorithms
 
