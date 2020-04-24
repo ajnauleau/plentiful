@@ -77,12 +77,6 @@ Install the Plentiful repo:
 $ npm install -g plentiful
 ```
 
-Call any algorithm you can think of:
-
-```bash
-$ plentiful timsort arrayToBeSorted
-```
-
 Utilize implementType on any data set and find the best algorithm to use:
 
 ```bash
